@@ -6,7 +6,7 @@ Mini project about Investigate Hotel Business using Data Visualization <br>
 <br>
 ### -	It is very important for a company to always analysis their business performance. In this project, we focusing business performance in Hospitality sector. Our focus is to find about customers behave when placing an order hotel and its relationship to the rate of cancellation of hotel bookings. Results and insights that we find, we will present it in the form of visualization data to make it easier to understand and more persuasive.<br>
 ### -	The process using python program.<br>
-### -In this dataset, there are two hotels. We compare each other.<br>
+### - In this dataset, there are two hotels. We compare each other.<br>
 <br>
 
 ## The Process<br>

@@ -23,7 +23,9 @@ Mini project about Investigate Hotel Business using Data Visualization <br>
 ## The Results<br>
 ### -	Monthly Hotel Booking Analysis Based on Hotel Type<br>
 <br>
-![ALT](https://github.com/inggridpris/Investigate-Hotel-Business-using-Data-Visualization/blob/main/fig/average%20number.jpeg "Monthly hotel booking")
+
+![ALT]https://github.com/inggridpris/Investigate-Hotel-Business-using-Data-Visualization/blob/main/fig/average%20number.jpeg "Monthly hotel booking")
+
 <br>
 ### From this picture, that we know there are two hotel, namely City Hotel and Resort Hotel. When it is in holiday season, both of them get more number of booking, but in November, both of this hotel have a more less booking. In September. City Hotel decreased. In other hand, Resort Hotel increase. Both of them, have a low booking in January until March.<br>
 

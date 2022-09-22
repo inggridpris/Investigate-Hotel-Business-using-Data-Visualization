@@ -4,7 +4,7 @@ Mini project about Investigate Hotel Business using Data Visualization <br>
 
 ## Investigate Business Hotel Using Data Visualization : Project Overview <br>
 <br>
-### -	It is very important for a company to always analysis their business performance. In this project, we focusing business performance in Hospitality sector. Our focus is to find about customers behave when placing an order hotel and its relationship to the rate of cancellation of hotel bookings. Results and insights that we find, we will present it in the form of visualization data to make it easier to understand and more persuasive.<br>
+### .	It is very important for a company to always analysis their business performance. In this project, we focusing business performance in Hospitality sector. Our focus is to find about customers behave when placing an order hotel and its relationship to the rate of cancellation of hotel bookings. Results and insights that we find, we will present it in the form of visualization data to make it easier to understand and more persuasive.<br>
 ### -	The process using python program.<br>
 ### - In this dataset, there are two hotels. We compare each other.<br>
 <br>
@@ -32,14 +32,14 @@ Mini project about Investigate Hotel Business using Data Visualization <br>
 <br>
 ### -	Impact Analysis of stay Duration on Hotels Booking Cancellation Rates<br>
 <br>
-![ALT](https://github.com/inggridpris/Investigate-Hotel-Business-using-Data-Visualization/blob/main/fig/percent%20canceled.jpeg "Cancelled")
+![ALT](https://github.com/inggridpris/Investigate-Hotel-Business-using-Data-Visualization/blob/main/fig/Picture9.jpg "Cancelled")
 <br>
 ### In this picture above, can tell about the relationship of percentage cancelled with stay duration in two hotels. In the City Hotel, the longer you stay is the highest you got cancelled. In the other hand, Resort Hotel not so. For 5 days of stay, both hotel have the same percent cancelled. The trend of Resort Hotel tends to be flat while Trend City Hotel tends to rise.<br>
 <br>
 
 ### -	Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate<br>
 <br>
-![ALT](https://github.com/inggridpris/Investigate-Hotel-Business-using-Data-Visualization/blob/main/fig/lead%20time.jpeg "Lead Time")
+![ALT]([https://github.com/inggridpris/Investigate-Hotel-Business-using-Data-Visualization/blob/main/fig/lead%20time.jpeg "Lead Time")
 <br>
 ### In this graph, there are relationship lead time duration with percentage of cancelled in City hotel and Resort Hotel. With the first month, both of them have the lowest cancelled. In 11-12 months period, City Hotel have reach the highest percentage cancelled. It is different from Resort Hotel, Resort Hotel get the low percentage cancelled in the end of 12 months. City Hotel tends to rise until 12 months but then went down in the next periods. Resort Hotel have a volatile graph for the Lead Time Duration.<br>
 <br>
